@@ -12,7 +12,7 @@
   <img align="center" alt="Player-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Player-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Player-Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="right"  style="border-radius: 500px;" alt="Player-pic" height="150" src="https://images-ext-1.discordapp.net/external/ozD10LzsIxwfeNsNlQ1f-4ipDa9EV3MtcmzLzXo8ka8/%3Fsize%3D2048/https/cdn.discordapp.com/avatars/726976994239315999/bdcda70a3892ad0818f1986f8bb7cfd6.png?width=480&height=480">
+  <img align="right"  style="border-radius: 500px;" alt="Player-pic" height="150" src="https://64.media.tumblr.com/7049a5c9a1549c6e6893ea9870ce584f/ecd89e6d7847819f-6d/s400x600/0ebef6a3294b7501e789ac9152d6c1fe7057df2f.gif">
 </div>
   
   ## "Um novo mundo, novas possibilidades"
