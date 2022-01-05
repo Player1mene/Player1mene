@@ -12,7 +12,7 @@
   <img align="center" alt="Player-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Player-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Player-Boostrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
-  <img align="right"  style="border-radius: 500px;" alt="Player-pic" height="150" src="https://cdn.discordapp.com/attachments/800208100816715856/927632305764327454/bd0fdd1bd44923a1cd137.jpg">
+  <img align="right"  style="border-radius: 500px;" alt="Player-pic" height="150" src="https://c.tenor.com/RI_Ktohbw3MAAAAC/power-chainsaw-man.gif">
 </div>
   
   ## "Um novo mundo, novas possibilidades"
