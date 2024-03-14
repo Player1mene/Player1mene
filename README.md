@@ -91,7 +91,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://miro.medium.com/v2/resize:fit:500/0*vx0ScvDWPy-Rnv0T."  />
+  <img width="500" height="200" src="https://miro.medium.com/v2/resize:fit:500/0*vx0ScvDWPy-Rnv0T."  />
 </div>
 
 ###
